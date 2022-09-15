@@ -22,18 +22,16 @@ h1 {
 
 .head-text {
     font-weight: lighter;
+    text-align: center;
 }
 
 header {
     margin-bottom: 50px;
 }
 
-main {
-    /* width: calc(900px / 3); */
-}
 
 .box {
-    width: 380px;
+    width: calc(33.3% - 20px);
     height: 100px;
     background-color: black;
     float: left;
