@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    max-width: 900px;
+    max-width: 1200px;
     margin: auto;
 }
 
@@ -33,9 +33,29 @@ main {
 }
 
 .box {
-    width: 280px;
+    width: 380px;
     height: 100px;
     background-color: black;
     float: left;
     margin: 10px;
+}
+
+.box img{
+    height: 100%;
+    margin-right: 15px;
+    float: left;
+}
+
+.info {
+    color: white;
+    padding: 5px 0px;
+}
+
+.job {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.email {
+    color: #59AED6;
 }
