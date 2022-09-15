@@ -6,9 +6,34 @@
 
 body {
     font-family: 'Fredoka One', 'cursive';
-    
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
 }
 
 h1 {
     color: #E53170;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.head-text {
+    font-weight: lighter;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+main {
+    padding: 30px;
+}
+
+.box {
+    width: 300px;
+    height: 80px;
+    background-color: black;
 }
