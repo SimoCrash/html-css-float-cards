@@ -31,7 +31,9 @@ header {
 
 
 .box {
-    width: calc(33.3% - 20px);
+    /* qui */
+    width: 380px; 
+    
     height: 100px;
     background-color: black;
     float: left;
